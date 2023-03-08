@@ -1,7 +1,7 @@
 ### Olá!!! Sou a Beatriz Simões 🖤
 
 
-- 🌱 I’m currently learning Haskell
+- 🌱 I’m currently learning C
 - 😄 Pronouns: she/her
 
 <div align="center">

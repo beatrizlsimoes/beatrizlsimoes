@@ -1,8 +1,7 @@
-### Olá!!! Sou a Beatriz Simões 🖤
+### Hi!!! My name is Beatriz Simões 🖤
+I am a software engineering student at University of Minho.
 
 
-- 🌱 I’m currently learning C
-- 😄 Pronouns: she/her
 
 <div align="center">
   <a href="https://github.com/beatrizlsimoes">

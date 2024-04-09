@@ -1,11 +1,13 @@
 ### Hi!!! My name is Beatriz Simões 🖤
 I am a software engineering student at University of Minho.
 
-<div align="center">
+<div style="text-align: center;">
   <a href="https://github.com/beatrizlsimoes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatrizlsimoes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizlsimoes&layout=compact&langs_count=7&theme=dracula"/>    
+    <img src="https://github-readme-stats.vercel.app/api?username=beatrizlsimoes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" style="max-width: 100%; height: auto;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizlsimoes&layout=compact&langs_count=7&theme=dracula" alt="Top Languages" style="max-width: 100%; height: auto;">
+  </a>
 </div>
+
 
 <h3 align="left">Connect with me:</h3>
 <div>

@@ -1,4 +1,4 @@
-### Hi!!! My name is Beatriz Simões 🖤
+## Hi!!! My name is Beatriz Simões 🖤
 I am a software engineering student at University of Minho.
 
 <div style="text-align: center;">

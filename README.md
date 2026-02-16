@@ -10,7 +10,7 @@ I'm a university student passionate about **Management** and **technology**, foc
 ## 🛠️ Skills & Technologies
 
 - **Programming & Tools:** Python, Haskell, C, Excel, Git, GitHub
-- **Data Analysis:** Pandas, NumPy, basic SQL  
+- **Data Analysis:** basic SQL  
 - **Management & Productivity:** Project planning, workflow optimization, cognitive enhancement techniques
 
 ---
@@ -66,7 +66,20 @@ I'm a university student passionate about **Management** and **technology**, foc
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" alt="Excel" width="50" height="50"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"/>
+  </a>
 </p>
+
 
 ---
 

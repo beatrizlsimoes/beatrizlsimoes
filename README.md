@@ -1,7 +1,29 @@
-# Hi, I'm Beatriz Simões 🖤
+# 👋 Hi there! I'm Bea
 
-## 👩‍💻 About Me
-I'm a Software Engineering student at the University of Minho. I am passionate about technology, problem-solving and innovation.
+I'm a university student passionate about **Management** and **technology**, focused on continuous learning, productivity, and creating smart solutions.
+
+📍 Based in **Póvoa de Varzim, Portugal**  
+💡 Enthusiast of **productivity, functional intelligence and cognitive development**
+
+---
+
+## 🛠️ Skills & Technologies
+
+- **Programming & Tools:** Python, Haskell, C, Excel, Git, GitHub
+- **Data Analysis:** Pandas, NumPy, basic SQL  
+- **Management & Productivity:** Project planning, workflow optimization, cognitive enhancement techniques
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced **data analysis and visualization**  
+- Strategic **management concepts**  
+- Techniques for improving **cognitive performance** and learning efficiency
+
+---
+
+✨ “Always learning, always improving.”
 
 ---
 
